@@ -1,0 +1,65 @@
+.feedback-container {
+    background-image: url("https://img.goodfon.com/wallpaper/nbig/7/f9/kholmy-igra-art-gory-firewatch-campo-santo-les-peizazh-poz-7.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .feedback-form {
+    background-color: rgba(255, 255, 255, 0.808);
+    padding: 100px;
+    border-radius: 0px;
+    margin-top: 100px;
+    margin-left: 130px;
+    text-align: center;
+    width: 600px;
+    height: 750px;
+  }
+  
+  /* .rectangle84
+  {
+  position:relative;
+  top:0px;
+  } */
+  
+  h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    color:#241010;
+    top:-50px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  select,
+  textarea,
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #241010;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px black;
+    font-size: 16px;
+    
+  }
+  
+  button {
+    background-color:  #0b6b85;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+}

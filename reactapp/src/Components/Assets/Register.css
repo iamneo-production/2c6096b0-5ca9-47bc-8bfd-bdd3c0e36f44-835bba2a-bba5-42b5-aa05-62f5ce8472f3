@@ -1,0 +1,125 @@
+.rect1
+{
+    position: absolute;
+    height: 500px;
+    width: 1279px;
+    background-color: hwb(232 43% 26% / 0.494);
+}
+.img1
+{
+    position: absolute;
+    right: 10px;
+    height: 200px;
+    width: 1270px;
+}
+.rect2
+{
+    position: absolute;
+    height: 600px;
+    width: 850px;
+    background-color: rgba(62, 68, 103, 0.482);
+    top: 80px;
+    left: 300px;
+}
+.h1
+{
+    font-family:'Franklin Gothic Medium';
+    font-size: 40px;
+    color: hsl(0, 0%, 100%);
+    margin-left: 280px;
+    margin-top: 20px;
+}
+.form1
+{
+    position: absolute;
+    left: 310px;
+    top: 90px;
+    font-size: 23px;
+    font-family:'Times New Roman', Times, serif;
+}
+::placeholder
+{
+    font-size: 14px;
+    font-family: cursive;
+}
+input[type=text100]
+{
+    size: 22;
+    height: 35px;
+    font-size: 25px;
+    width: 250px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}  
+input[type=text300]
+{
+   
+    size: 22;
+    height: 35px;
+    font-size: 25px;
+    width: 250px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}  
+input[type=text500]
+{
+   
+    size: 22;
+    height: 35px;
+    font-size: 25px;
+    width: 250px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}  
+input[type=text400]
+{
+   
+    size: 22;
+    height: 35px;
+    font-size: 25px;
+    width: 250px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}  
+input[type=email]
+{
+   
+    size: 22;
+    height: 35px;
+    font-size: 25px;
+    width: 250px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}  
+input[type=password]
+{
+    size: 22;
+    height: 35px;
+    width: 250px;
+    font-size: 25px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.but2
+{
+    position: absolute;
+    top: 440px;
+    border-radius: 100px;
+    background: #0b6b85;
+    width: 150px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 39px;
+    color: hwb(120 98% 0%);
+    margin-left: 30px;
+}

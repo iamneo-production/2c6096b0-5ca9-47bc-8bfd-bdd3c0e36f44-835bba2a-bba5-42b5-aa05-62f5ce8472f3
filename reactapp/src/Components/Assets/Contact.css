@@ -1,0 +1,128 @@
+.bodycon
+{
+    background: url("https://img.freepik.com/free-vector/hand-drawn-flat-design-mountain-landscape_23-2149158780.jpg?size=626&ext=jpg");
+    background-position: cover ;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.imagecon
+{
+    position:absolute;
+    left: 830px;
+    top: 170px;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.contactfull
+{
+    
+    background-position: center;
+    background-size: cover;
+    background-position: top;
+    background-color: linear-gradient(hsl(225, 25%, 97%), #f5f6f7);;
+    height: 40vh;
+    padding-right: 202px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* left: 350px; */
+    /* margin-top: 0px; */
+    top: 2000px;
+
+}
+.contactfull form{
+    width: 580px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+    border-radius: 0px;
+    backdrop-filter: blur(5px);
+    flex-wrap: wrap;
+    margin-top: 440px;
+}
+.contactfull form h2{
+    color:#ca870a;
+    font-size: 35px;
+    margin-top: 20px;
+    width: 500px;
+    text-align: center;
+}
+.contactfull form input{
+    width: 220px;
+    height: 40px;
+    padding-left: 5px;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 20px;
+    background: none;
+    border-bottom: 2px solid white;
+}
+.contactfull form input::placeholder{
+    color: rgb(5, 63, 2);
+}
+.contactfull form #lastName,
+.contactfull form #mobile
+{
+    margin-left: 20px;
+}
+.contactfull form h4{
+    color:  rgb(9, 75, 6);
+    font-weight: 300;
+    width: 600px;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+.contactfull form textarea{
+    background: none;
+    border: none;
+    border-bottom: 2px solid rgb(252, 251, 251);
+    font-size: 25px;
+    padding: 20px;
+    outline: none;
+    /* min-height: 100px; */
+     max-height: 40px;
+    /* min-width:100px ;*/
+    max-width:1000px;
+}
+ /* textarea::-webkit-scrollbar{
+    width: 0.5cm;
+} */
+textarea::-webkit-scrollbar-thumb{
+    background-color:  rgb(245, 247, 245);
+}
+.contactfull form #contact_button{
+    border: none;
+    background: #ca870a;
+    border-radius: 5px;
+    margin-top: 70px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #333;
+    width: 100px;
+    padding: 0;
+    margin-left: 0px;
+    margin-bottom: 30px;
+    transition: 0.3s;
+}
+.container form #contact_button:hover{
+    opacity: 0.7;
+}
+.rectangle99{
+position: relative;
+    width: 400px;
+    height: 400px;
+    left: 760px;
+    top: -500px;
+    background: white;
+    border-radius: 50px;
+    box-shadow: 10px 10px 30px white;
+}

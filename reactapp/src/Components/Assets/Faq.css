@@ -1,0 +1,78 @@
+.ran
+{
+    position: relative;
+    background: url("https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w05315-small.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 160vh;
+}
+.rectangle88
+{
+    position: relative;
+    height:890px;
+    width:900px;
+    background-color: rgba(34, 127, 129, 0.372);
+    box-shadow: 5px 5px 5px 5px white;
+    left:150px;
+    top:50px;
+}
+.kab
+{
+    position: relative;
+    left:10px;
+    top:70px;
+}
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top:50px;
+    left:10px;
+  }
+  
+  .faq-list {
+    margin-top: 20px;
+    position: relative;
+  }
+  
+  .faq-item {
+    position: relative;
+    border: 1px solid #cccccc17;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .faq-question {
+    position: relative;
+    background-color: rgb(30, 83, 104);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .faq-answer {
+    position: relative;
+    padding: 10px;
+    display: none;
+  }
+  
+  .faq-question.expanded {
+    position: relative;
+    background-color: #ca870a74;
+  }
+  
+  .faq-question.expanded + .faq-answer {
+    position: relative;
+    display: block;
+  }
+  
+  h1 {
+    position: relative;
+    text-align: center;
+}
