@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contactfull
+{
+    
+    background-position: center;
+    background-size: cover;
+    background-position: top;
+    background-color: linear-gradient(#141e30, #243b55);;
+    min-height: 100vh;
+    padding-right: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contactfull form{
+    width: 670px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    flex-wrap: wrap;
+}
+.contactfull form h1{
+    color:white;
+    font-weight: 500;
+    margin-top: 20px;
+    width: 500px;
+    text-align: center;
+}
+.contactfull form input{
+    width: 290px;
+    height: 40px;
+    padding-left: 10px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    margin-bottom: 10px;
+    background: none;
+    border-bottom: 2px solid white;
+}
+.contactfull form input::placeholder{
+    color: skyblue;
+}
+.contactfull form #lastName,
+.contactfull form #mobile
+{
+    margin-left: 20px;
+}
+.contactfull form h4{
+    color: #c21e91;
+    font-weight: 300;
+    width: 600px;
+    margin-top: 20px;
+}
+.contactfull form textarea{
+    background: none;
+    border: none;
+    border-bottom: 2px solid white;
+    font-weight: 200;
+    font-size: 15px;
+    padding: 10px;
+    outline: none;
+    min-height: 80px;
+    max-height: 80px;
+    min-width:600px ;
+    max-width:600px ;
+}
+textarea::-webkit-scrollbar{
+    width: 1cm;
+}
+textarea::-webkit-scrollbar-thumb{
+    background-color: aqua;
+}
+.contactfull form #contact_button{
+    border: none;
+    background: skyblue;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #333;
+    width: 100px;
+    padding: 0;
+    margin-right: 500px;
+    margin-bottom: 30px;
+    transition: 0.3s;
+}
+.container form #contact_button:hover{
+    opacity: 0.7;
+}
+.rectangle99{
+position: relative;
+    width: 400px;
+    height: 400px;
+    left: 760px;
+    top: -500px;
+    background: white;
+    border-radius: 50px;
+    box-shadow: 10px 10px 30px white;
+}

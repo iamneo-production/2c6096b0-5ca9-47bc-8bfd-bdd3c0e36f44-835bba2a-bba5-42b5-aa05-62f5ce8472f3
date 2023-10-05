@@ -1,0 +1,116 @@
+.rect1x
+{
+    position: absolute;
+    height: 594px;
+    width: 1279px;
+    background-color: hwb(232 43% 26% / 0.494);
+}
+.img2x
+{
+        position: absolute;
+        left: 450px;
+        right: 10px;
+        border-radius: 10%;
+        top: 25px;
+}
+.rect2x
+{
+    position: absolute;
+    height: 450px;
+    width: 900px;
+    background-color:  #0b6b85ab;
+    top: 115px;
+    left: 180px;
+}
+.img3x
+{
+    position: absolute;
+    right: 1150px;
+    border-radius: 10%;
+    top: 25px;
+}
+.rect3x
+{
+    position: absolute;
+    height: 400px;
+    width: 420px;
+    background-color: rgba(3, 5, 20, 0.224);
+    bottom: 4px;
+    left: 0px;
+}
+.h1x
+{
+    font-family:cursive;
+    font-size: 20px;
+    color: hsla(108, 9%, 90%, 0.945);
+    margin-left: 35px;
+    margin-top: 50px;
+}
+.p2x
+{
+    position: absolute;
+    font-family: cursive;
+    font-size: 35px;
+    color:  #043847;
+    margin-left: 125px;
+    margin-top: -40px;
+}
+.plx
+{
+    font-family:cursive;
+    font-size: 20px;
+    color: hsla(108, 9%, 90%, 0.945);
+    margin-left: 60px;
+    margin-top: 270px;
+}
+.form1x
+{
+    position: absolute;
+    left: 120px;
+    top: 130px;
+    font-size: 23px;
+    font-family:'Times New Roman', Times, serif;
+}
+::placeholder
+{
+    font-size: 14px;
+    font-family: cursive;
+}
+input[type=username]
+{
+   
+    size: 22;
+    height: 35px;
+    font-size: 25px;
+    width: 250px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}  
+input[type=passwordx400]
+{
+    size: 22;
+    height: 35px;
+    width: 250px;
+    font-size: 25px;
+    border-radius: 25px;
+    margin-left: -15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.but2x
+{
+    position: absolute;
+    top: 150px;
+    border-radius: 100px;
+    background: rgba(51, 5, 66, 0.34);
+    width: 150px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 39px;
+    color: hsl(120, 19%, 95%);
+    margin-left:30px;
+}

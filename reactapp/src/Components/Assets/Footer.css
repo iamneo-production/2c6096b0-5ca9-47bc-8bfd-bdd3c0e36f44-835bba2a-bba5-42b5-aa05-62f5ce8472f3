@@ -1,0 +1,219 @@
+
+.body67{
+    background: url("https://img.goodfon.com/wallpaper/nbig/7/f9/kholmy-igra-art-gory-firewatch-campo-santo-les-peizazh-poz-7.jpg");
+    background-position:cover;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+#username123
+{ float: right;
+   
+}
+.image
+{
+    position: absolute;
+    top:170px;
+    left: 680px;
+}
+.image2
+{
+    position: absolute;
+    top:400px;
+    left: 160px;
+}
+.para
+{
+    position:relative;
+    font-size:45px;
+    left: 60px;
+    top:180px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b6b85;
+}
+.para2
+{
+    position:relative;
+    font-size:30px;
+    top:200px;
+    left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ca870a;
+}
+.para3
+{
+    position:relative;
+    font-size:15px;
+    left: 185px;
+    top:245px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(210, 25%, 98%);
+}
+.Footer
+{
+   position: relative;
+    background: #0b6b85;
+    margin-top: 2.5rem;
+    top: 365px;
+    height: 360px;
+    opacity: 0.9;   
+}
+
+     .ft-1 h3{
+        
+        position: relative;
+        font-weight: 700;
+        font-family:cursive; 
+        letter-spacing: 2px;
+        right: -90px;
+        top: 35px;
+    
+     }
+     .ft-1 h3{
+        color:#f5f7f8eb;
+        font-size: 35px;
+    
+     }
+       .ft-1 p{
+        position: relative;
+        padding: 0rem 5rem 0.8rem 0;
+        font-weight: 500;
+        right:-10px;
+        font-size: 28px;
+        color: rgb(5, 5, 5);
+        top: 40px; 
+
+     } 
+  
+     .footer-icons span{
+      margin-left: 7%;
+      display: inline-block;
+      height: 44px;
+      width: 44px;
+      color: white;
+      background-color: rgba(40,130,214,0.8);
+      margin: 70px 20px 8px 0;
+      text-align: center;
+      line-height: 44px;
+      border-radius: 50%;
+      transition: 0.4s;
+      top: 200px;
+      margin-left: 8vh;
+     }
+  
+    
+     /* .footer-icons i
+     {
+         padding: 0.4rem 0.5rem;
+         background: #96a8d7;
+         color: #0c0c0c;
+         margin: 0 0.5rem ;
+         border-radius:50%;
+         right:400px;
+         position: relative;
+     }
+     .footer-icons i:hover
+     {
+         background:#1180dbeb ;
+         color: #fff;
+         transition: 0.6s;
+         cursor: pointer;     
+     } */
+     .Footer h5{
+        color:  hsl(208, 27%, 71%);
+        position: relative;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 27px;
+        top:-50px;
+        left:450px;
+     }
+     .ft-2  p{
+        padding: 0.2rem 0;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: relative;
+        margin-top: 1px; 
+        color: rgb(237, 227, 227);
+        margin-left: 480px;
+        top:-40px;
+     }
+     .ft-2 i
+     {
+        padding-right: 0.2rem;
+     }
+     .Footer h4{
+        color:  hsl(208, 27%, 71%);
+        position: relative;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 22px;
+        top: -193px;
+        left: 650px;
+     }
+     .ft-3  p{
+        padding: 0.2rem 0;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: relative;
+        top: -175px; 
+        color: rgb(237, 227, 227);
+        margin-left: 650px;
+    
+     }
+     .ft-3 i{
+        padding-right: 0.2rem;
+    
+     }
+     .Footer h6{
+        color:  hsl(208, 27%, 71%);
+        position: relative;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 22px;
+        top:-307px;
+        left:860px;
+
+     }
+     .ft-4  p{
+        padding: 0.2rem 0;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: relative;
+        top: -290px; 
+        color: rgb(237, 227, 227);
+        margin-left: 860px;
+    
+     }
+     .ft-4 i{
+        padding-right: 0.2rem;
+    
+     }
+     .Footer h1{
+        color:  hsl(208, 27%, 71%);
+        position: relative;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 22px;
+        top:-420px;
+        left:500px;
+
+     }
+     .ft-5  p{
+        padding: 0.2rem 0;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: relative;
+        top: -425px; 
+        color: rgb(237, 227, 227);
+        margin-left: 1048px;
+    
+     }
+     .ft-5 i{
+        padding-right: 0.2rem;
+    
+     }
+    
+     
+
+     
+    
+     
+    
